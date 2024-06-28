@@ -47,5 +47,6 @@ if __name__=='__main__':
     w=MyWindow()
     w.ui.show()
     app.exec()
+    n=7897979879
 
 
