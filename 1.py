@@ -48,6 +48,7 @@ if __name__=='__main__':
     w.ui.show()
     app.exec()
     n=7897979879
+    nn=2312313
 
 
 
