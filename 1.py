@@ -49,5 +49,6 @@ if __name__=='__main__':
     app.exec()
     n=7897979879
     m="jkjlkj"
+    p="hjkhkjhkj"
 
 
