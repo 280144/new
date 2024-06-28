@@ -48,5 +48,6 @@ if __name__=='__main__':
     w.ui.show()
     app.exec()
     n=7897979879
+    m="jkjlkj"
 
 
